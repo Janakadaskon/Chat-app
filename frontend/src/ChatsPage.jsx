@@ -1,0 +1,1 @@
+import{ PrettyChatWindow } from 'react-chat-engine-pretty'
